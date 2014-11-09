@@ -1,2 +1,2 @@
-Project Descrption
+Project Description
 How to install
